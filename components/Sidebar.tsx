@@ -1,5 +1,5 @@
-import { MenuIcon } from "lucide-react";
 import NewDocumentButton from "./NewDocumentButton";
+import { MenuIcon } from "lucide-react";
 import {
   Sheet,
   SheetContent,
