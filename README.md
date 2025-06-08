@@ -1,4 +1,23 @@
-# AI Notion Clone with Next.js 15
+## 🧠 Overview
+
+A powerful Notion-style editor built with **Next.js 14** and **React**, featuring **real-time collaboration** with **live cursors** and **live rich-text editing**. This clone is designed to be lightning-fast, modern, and user-friendly — perfect for team collaboration and note-taking.
+
+## ⚙️ Tech Stack
+
+- Next.js 14  
+- React.js  
+- Clerk (Authentication)  
+- ShadCN/UI (Component Library)  
+- Tailwind CSS (Styling)  
+- Firestore (Real-time Database)
+
+## 🚀 Features
+
+- 🖊️ **Live Rich Text Editing** – Collaborate on documents in real time  
+- 🧭 **Live Cursors** – See where other users are editing instantly  
+- 🔐 **Auth with Clerk** – Secure sign-in and user sessions  
+- ⚡ **Fast & Scalable** – Built with modern frameworks and cloud-ready architecture  
+- 💅 **Clean UI** – Responsive, minimal design with ShadCN and Tailwind CSS  
 ## Getting Started
 
 First, run the development server:
